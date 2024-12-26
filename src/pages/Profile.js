@@ -18,6 +18,7 @@ class Profile extends React.Component {
                 status: "",
                 contact: "",
             }
+            
         };
     }
 
